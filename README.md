@@ -4,4 +4,4 @@
 ————————————————————————————————————————————————————————————————————————————————
 ## 订阅/发布模式
 ### pub/sub 使用很广
-![github](发布订阅者.jpeg “github”)；
+![github](https://github.com/louyunxi/design-pattern/发布订阅者.jpeg “github”)；
