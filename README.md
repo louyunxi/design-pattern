@@ -4,4 +4,4 @@
 ————————————————————————————————————————————————————————————————————————————————
 ## 订阅/发布模式
 ### pub/sub 使用很广
-![github](https://github.com/louyunxi/design-pattern/发布订阅者.jpeg “github”)；
+![github](https://github.com/louyunxi/design-pattern/blob/master/%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85%E8%80%85.jpeg “github”)；
