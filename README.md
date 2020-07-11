@@ -4,4 +4,7 @@
 ————————————————————————————————————————————————————————————————————————————————
 ## 订阅/发布模式
 ### pub/sub 使用很广
+<p align='center'>
+<img src='i/fabudingyue.jpg' title='images' style='max-width:600px'></img>
+</p>
 ![github](https://github.com/louyunxi/design-pattern/blob/master/fabudingyue.jpg “github”)；
