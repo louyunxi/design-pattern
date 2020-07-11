@@ -7,4 +7,4 @@
 <p align='center'>
 <img src='i/fabudingyue.jpg' title='images' style='max-width:600px'></img>
 </p>
-![github](https://github.com/louyunxi/design-pattern/blob/master/fabudingyue.jpg “github”)；
+![github](https://static.bit.dev/brands/logo-ts.svg “github”)；
