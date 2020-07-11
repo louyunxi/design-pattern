@@ -5,6 +5,6 @@
 ## 订阅/发布模式
 ### pub/sub 使用很广
 <p align='center'>
-<img src='i/fabudingyue.jpg' title='images' style='max-width:600px'></img>
+<img src='https://static.bit.dev/brands/logo-ts.svg' title='images' style='max-width:600px'></img>
 </p>
 ![github](https://static.bit.dev/brands/logo-ts.svg “github”)；
